@@ -1,0 +1,13 @@
+// ATHENA AI OVERVIEW //
+
+MAIN VIBE:
+- AI Chatbot capable of everything a chatbot can typically do (Prompt engineering, image/video generation)
+
+ATHENA CHALLENGE:
+- MAIN GOAL: Simplify campus life for university students (MAKE THEM FINANCIALLY LITERATE).
+- CRITERIA: Must contain at least one MCP (Model Context Protocol) tool and one or more widgets.
+- MCP Tools --> Specific capability or "action" that an AI model can perform through this protocol.
+
+CAPABILITIES FOR OUR PROJECT:
+The following capabilities were assessed through prompts.
+1. 
