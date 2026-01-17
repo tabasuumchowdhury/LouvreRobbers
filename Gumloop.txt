@@ -1,0 +1,14 @@
+// GUMLOOP TUTORIAL //
+AGENTS VS. FLOWS:
+1. Def FLOW: Think of flows as assembly lines. You define every step, and the flow executes them in order/
+2. Def AGENTS: Instead of following a fixed path, you give them a goal and a set of tools—and they figure out how to accomplish that goal.
+
+Defining your own agent:
+1. Has access to tools (all types of platforms) 
+2. Instructions - Guidelines for how to use those tools and what to prioritize 
+(How it should behave? What is it capable of?)
+3. Feed gumloop flows
+
+FLOW OF STEPS:
+1. Instructions to set up the apple shortcuts (for the weekly/biweekly feature)
+2. 
