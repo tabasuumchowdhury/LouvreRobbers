@@ -12,3 +12,6 @@ Defining your own agent:
 FLOW OF STEPS:
 1. Instructions to set up the apple shortcuts (for the weekly/biweekly feature)
 2. 
+
+
+https://api.gumloop.com/api/v1/start_pipeline?api_key=564776946ad441e380c9a765bed637a7&user_id=btBtOLyOifMMAjSY6VdN8pzTpzW2&saved_item_id=pxUCpUWHyy97wxaej4X6Rr
